@@ -12,12 +12,12 @@ All the data are organized by columns.
 
 **Manipulator_Data -- Data for Example 2**
 
-- V (Simulation results with Lyapunov function being $V(x)$)
+- V (Simulation results with Lyapunov function being $ V(x) $)
   - Lyp_reward.xlsx  -- The total value of of each trajectory during the training process. (The first column represents the trajectory counter)
   - Lyp_step.xlsx      -- The steps of each trajectory. (The first column represents the trajectory counter)
   - Lyp_x.xlsx          --  The simulation result of displacement $x$.
 
-- expV (Simulation results with Lyapunov function being $e^{2t}V(x)$)
+- expV (Simulation results with Lyapunov function being $ e^{2t}V(x) $)
   - OneNet (Simulation results of a trained network)
     - Lyp_u.xlsx -- The simulation result of input $u$.
     - Lyp_v.xlsx -- The simulation result of velocity $v$.
