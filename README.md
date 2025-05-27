@@ -1,6 +1,6 @@
 # Declaration (2025.5.27)
 
-The related code has been uploaded. Some plot code will be added in the next few days. 
+The related code has been uploaded. Other code of ploting will be added in the next few days. 
 
 # Data Introduction 
 
